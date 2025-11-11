@@ -140,7 +140,7 @@ export default function Curriculum() {
 
         {/* VIDEO */}
         <section id="video" aria-labelledby="video-title">
-          <h2 id="video-title">Video corto</h2>
+          <h2 id="video-title">Video</h2>
           <div className="video-wrap">
             {/* Columna 1: video */}
             <figure className="video card">
@@ -151,7 +151,6 @@ export default function Curriculum() {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowFullScreen
               ></iframe>
-              <figcaption>Demo breve desde YouTube.</figcaption>
             </figure>
 
             {/* Columna 2: info (más ancha, más abajo y centrada) */}
